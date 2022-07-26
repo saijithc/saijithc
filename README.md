@@ -1,11 +1,7 @@
-<style>
-Img {
-Width:100%
-}
-</style>
-<h1 align="center">Hi , I'm saijith</h1>
+
+<h1  align="center">Hi , I'm saijith</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
-<img align="right" alt="Coding"  src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img width="50%" margin-bottom="60" align="right" alt="Coding"  src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - 🌱 I’m currently learning **flutter**
 
